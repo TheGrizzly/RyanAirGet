@@ -1,0 +1,13 @@
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/RyanAir.exe
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/RyanAir.pdb
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/Newtonsoft.Json.dll
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/Newtonsoft.Json.xml
+/Users/marcorivera/Projects/RyanAir/RyanAir/obj/x86/Debug/RyanAir.csprojAssemblyReference.cache
+/Users/marcorivera/Projects/RyanAir/RyanAir/obj/x86/Debug/RyanAir.csproj.CoreCompileInputs.cache
+/Users/marcorivera/Projects/RyanAir/RyanAir/obj/x86/Debug/RyanAir.csproj.CopyComplete
+/Users/marcorivera/Projects/RyanAir/RyanAir/obj/x86/Debug/RyanAir.exe
+/Users/marcorivera/Projects/RyanAir/RyanAir/obj/x86/Debug/RyanAir.pdb
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/EPPlus.dll
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/EPPlus.xml
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/MathNet.Numerics.dll
+/Users/marcorivera/Projects/RyanAir/RyanAir/bin/Debug/MathNet.Numerics.xml
